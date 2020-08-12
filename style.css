@@ -1,0 +1,59 @@
+.bb{
+    height: 300px;
+    width: 300px;
+    border: crimson;
+    border-width: 10px;
+}
+
+h2{
+    font-family: 'Holtwood One SC', serif;
+    color: red;
+}
+.aa{
+   background-color: black;
+   width: 1355px;
+}
+.gg{
+    height: 2px;
+    width: 10000px;
+    background-color: black;
+}
+.gs{
+    height: 400px;
+    width: 1370px;
+}
+body.aman{
+    background: url(maxresdefault-6\ copy.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+body.arjun{
+    background: url(maxresdefault-6\ copy.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.ff{
+    text-align: center;
+    background-color: ivory;
+    margin-left: 800px;
+
+}
+.cc{
+    font-family: 'Holtwood One SC', serif;
+    color: red;
+    background-color: black;
+
+
+}
+.ss{
+    background-color: black;
+   text-align-last: right;
+}
+body.home{
+    background-color: black;
+}
+h2{
+    font-family: 'Holtwood One SC', serif;
+    color: red;
+}
